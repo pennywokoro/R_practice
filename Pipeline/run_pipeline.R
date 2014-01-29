@@ -1,7 +1,7 @@
 
 
 ################### PIPELINE SCRIPTUS######################
-source("Training Pipeline/Pipeline/source.R")
-source("Training Pipeline/Pipeline/outlier_script.R")
-source("Training Pipeline/Pipeline/facility_script.R")
-source("Training Pipeline/Pipeline/lga_script.R")
+source("source.R")
+source("outlier_script.R")
+source("facility_script.R")
+source("lga_script.R")

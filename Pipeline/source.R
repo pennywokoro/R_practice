@@ -47,5 +47,5 @@ bool_proportion = function(numerator_TF, denominator_TF) {
 
 
 
-lgas_data <- read.csv("C:/Users/OHCSF.ICTD-015/Desktop/Nigeria_R_Training-master/Nigeria_R_Training-master/Training Pipeline/Pipeline/lgas.csv", stringsAsFactors = FALSE)
+lgas_data <- read.csv("lgas.csv", stringsAsFactors = FALSE)
   

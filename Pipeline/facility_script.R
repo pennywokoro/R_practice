@@ -2,7 +2,7 @@
 #Health: Facility Level Indicator Script
 
 #read in data
-h_outlier <- readRDS("Training Pipeline/Pipeline/health_cleaned.rds")
+h_outlier <- readRDS("health_cleaned.rds")
 
 #creating facility level data frame
 h_fac <- h_outlier
@@ -26,6 +26,6 @@ h_fac$num_nursemidwives_fulltime <- rowSums(h_fac[, c("num_midwives_posted", "nu
                                                       na.rm = T)
 
 #write data
-write.csv(h_fac, "C:././././Training Pipeline/Pipeline/health_facilitylevels.csv", row.names=F)
+write.csv(h_fac, "health_facilitylevels.csv", row.names=F)
 
 
