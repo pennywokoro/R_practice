@@ -12,8 +12,9 @@ Room for more practice in R
 * C'est fini
 
 # HOW TO SET UP UR WORKING DIRECTORY IN RSTUDIO.
-in order to get the pipeline from github running according to your own working directory without changing anything
-you have to set working directory through, session, choose working directory and choose the folder in github in ur computer, by;
-Go to my document
-Github
-then choose folder name according to what you have eg. pipeline and click on select.
+*in order to get the pipeline from github running according to your own working directory without changing anything
+*you have to set working directory through, session, choose working directory and choose the folder in github in ur computer, by;
+*Go to my document
+*Github
+*then choose folder name according to what you have eg. pipeline and click on select.
+*Goodluck
