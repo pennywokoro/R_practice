@@ -1,5 +1,4 @@
-#Outlier Script
-source("source.R")
+
 
 #health normalized data
 h <- readRDS("Health_774_ALL_FACILITY_INDICATORS.rds")
